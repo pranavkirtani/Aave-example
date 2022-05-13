@@ -33,3 +33,6 @@ The example covers following scenario
 3. User borrows some DAI using WETH as collateral
 4. User repays the borrowed DAI.
 
+## Article
+For a detailed explanation, please read my [Medium article](https://pranavkirtani.medium.com/how-to-build-your-own-defi-application-using-aaves-sdk-and-v3-smart-contracts-662818ffde88)
+
